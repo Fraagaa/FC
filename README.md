@@ -1,4 +1,5 @@
-# Introducción
+# Tema 5
+## Introducción
 
 - Dispositivos de E/S o periféricos: permiten la comunicación del computador con su entorno
 - La conexiones entre los periféricos, el procesador y la memoria se llavan a cabo mediante los buses
